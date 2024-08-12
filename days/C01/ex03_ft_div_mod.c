@@ -18,5 +18,5 @@ int main()
     int a = 10;
     int b = 3;
     ft_div_mod(a, b, &a, &b);
-    printf("Result of division :%d\t and the remander is :%d\t",a ,b);
+    printf("Result of division :%d\t and the remander is :%d\n",a ,b);
 }
